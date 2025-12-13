@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SwitchStatementDemo{
+public class SwitchStatementDemo{
     public static void main(String[] args) {
         Scanner user_input = new Scanner(System.in);
         float first_operand, second_operand;
